@@ -1,4 +1,4 @@
 rpi
 ===
 
-Raspberry Pi scripts
+very basic scripts experimenting a bit with a Raspberry Pi 
